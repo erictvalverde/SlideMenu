@@ -1,0 +1,13 @@
+"#navGroup":{
+	backgroundColor: "black"
+},
+"#mainWindow":{
+	backgroundColor: "yellow",
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL
+},
+"#menuBtn": {
+	image: 'images/menu_icon.png',
+	width: 45,
+	height: 30
+}

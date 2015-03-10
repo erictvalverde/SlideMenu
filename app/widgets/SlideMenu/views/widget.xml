@@ -1,0 +1,16 @@
+<Alloy>
+	
+	<View>
+		
+		<TableView id="menuView" />
+		
+		<View id="contentViewWrapper">
+			<View id="contentView">
+				<Label id="label">Main View</Label>
+			</View>
+			<View id="blockContent" />
+		</View>
+		
+	</View>
+
+</Alloy>

@@ -1,0 +1,22 @@
+<Alloy>
+	<NavigationWindow id="navGroup" platform="ios">
+		
+		<Window id="mainWindow" class="container">
+			
+			<LeftNavButton platform="ios">
+				<ImageView id="menuBtn" />
+			</LeftNavButton>
+			
+			<!-- View from slideMenu Widget will be added here -->
+			
+		</Window>
+    
+    </NavigationWindow>
+    
+    <Window id="mainWindow" class="container" platform="android">
+    	
+		<!-- View from slideMenu Widget will be added here -->
+		
+	</Window>
+
+</Alloy>

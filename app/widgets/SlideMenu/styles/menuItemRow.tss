@@ -1,0 +1,26 @@
+".itemRow" : {
+	height: 48,
+	selectedBackgroundColor: "#ccc"
+},
+"#title":{
+	left: 60,
+	right: 10,
+	height: 48,
+	font: {
+		fontSize: 16,
+		fontFamily: "HelveticaNeue-Light"
+	},
+	color: "#333",
+	touchEnabled: false
+},
+".iconWrap":{
+	height: 48,
+	left: 10,
+	width: 40,
+	touchEnabled: false
+},
+"#icon":{
+	height:Ti.UI.SIZE,
+	touchEnabled: false,
+	width: Ti.UI.SIZE
+}
