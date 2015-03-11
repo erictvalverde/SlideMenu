@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>com.tescohealthandwellbeing.appSkeleton</id>
-    <name>App Skeleton</name>
+    <id>br.com.ericdesign.SlideMenu</id>
+    <name>Slide Menu</name>
     <version>1.0</version>
     <publisher>erictvalverde</publisher>
-    <url>http://</url>
+    <url>http://www.ericdesign.com.br</url>
     <description>not specified</description>
-    <copyright>2014 by erictvalverde</copyright>
+    <copyright>2015 by erictvalverde</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
-    <guid>1a39b4d5-edd7-4817-9e65-6f49cd0b2e56</guid>
+    <guid><!-- ADD YOUR GUID HERE--></guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <ios>
         <plist>
